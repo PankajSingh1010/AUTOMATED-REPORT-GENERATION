@@ -203,3 +203,6 @@ Conclusion
 
 The journey to complete this task was both challenging and rewarding. It provided a hands-on opportunity to work with real-world datasets, implement data preprocessing, and generate automated reports. The final script is flexible and can handle various datasets with minimal modifications. This task has laid a strong foundation for further projects in data analysis and reporting.
 
+#PDF REPORT:
+
+[Global YouTube Statistics Report 2023.pdf](https://github.com/user-attachments/files/18718769/Global.YouTube.Statistics.Report.2023.pdf)
