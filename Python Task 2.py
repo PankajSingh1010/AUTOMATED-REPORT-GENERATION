@@ -3,7 +3,7 @@ import re
 from fpdf import FPDF
 
 # Full path to the file
-file_path = r"C:\Users\ASUS\Downloads\Python Internship\GlobalYouTubeStatistics.csv"
+file_path = r"(Yout csv file location)"
 
 # Load the CSV file
 df = pd.read_csv(file_path)
@@ -69,7 +69,7 @@ for index, row in df_filtered.iterrows():
     pdf.ln()
 
 # Save the PDF to a specific location
-pdf_output_path = r"C:\Users\ASUS\OneDrive\ドキュメント\Reports\Global_YouTube_Statistics_Report_Centered.pdf"
+pdf_output_path = r"(location where you want to save the file)"
 pdf.output(pdf_output_path)
 
 print(f"PDF report saved to: {pdf_output_path}")
